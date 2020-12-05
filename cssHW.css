@@ -1,0 +1,43 @@
+p,em{
+	border-style: dotted;
+	color: purple;
+	margin-left: auto;
+	margin-right: auto;
+}
+img{
+	float: left;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 2%;
+	margin-left: 10%;
+	width: 15%;
+	height: 20%;
+}
+h1{
+	background-color: yellow;
+	font-family: sans-serif;
+	text-align: center;
+}
+a{
+	color: lightblue;
+}
+.extra a{
+	color: inherit;
+}
+.A{
+	color: blue;
+	position: relative;
+	top: -0.5ex;
+	font-size: 180%;
+}
+.B{
+	color: red;
+	position: relative;
+	right: -1ex;
+	bottom: -0.8ex;
+	font-family: serif;
+}
+.C{
+	font-family: Arial;
+	font-size: 130%
+}
